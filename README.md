@@ -5,7 +5,7 @@ A personal portfolio website showcasing my profile, projects, and certificates o
 ## 🙋‍♀️ About Me
 I am an Informatics Engineering graduate with an interest in web and Android development. I enjoy designing interfaces and building intuitive and functional systems.
 
-🔗 Live Demo: [Click Here](https://tsaniyazhahiran.github.io/portfolio-tsaniyazhahiran)
+🔗 Live Demo: [Click Here](https://nnyyrraa.github.io/)
 
 📌 Purpose:  
 To serve as a personal branding platform and highlight my experiences and achievements in IT and UI/UX design.
